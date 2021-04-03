@@ -40,7 +40,7 @@ function App() {
           <ul style={{padding:'10px', margin:'15px'}} className="list-group">
             {course.map(item => <Card item={item}></Card>)}
          </ul>
-          <button style={{width:'85%', marginLeft:'20px'}} type="button" className="btn btn-info btn-block">
+          <button style={{width:'85%', marginLeft:'20px',marginBottom:'30px'}} type="button" className="btn btn-info btn-block">
             Checkout <span className="badge badge-light">$ {totalPrice}</span>
 
           </button>
