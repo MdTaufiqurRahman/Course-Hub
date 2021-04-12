@@ -16,3 +16,7 @@
 * VS Code
 * Git
 * Github
+
+If you happen to love this project, leave a ⭐ on the repo. That'll keep me motivated. Thanks!
+
+Contributions are welcomed! 💖
