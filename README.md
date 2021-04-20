@@ -1,8 +1,8 @@
 
 ### This project is deployed at :https://courses-hub.netlify.app/
 #### Course Hub Overview
-* Course Hub is a one page application
-* Here customer can buy their selected courses
+* Course Hub is a one page react application
+* Here customer can buy their selected online courses
 * Customers can see all orders and Price
 
 #### Usage Technology:
